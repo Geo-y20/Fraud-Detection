@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fraud Detection Model</title>
 </head>
 <body>
     <h1>Fraud Detection Model</h1>
@@ -32,12 +31,12 @@
     
 <h3>Classification Report:</h3>
     <pre>
-precision    recall  f1-score   support
+        precision        recall          f1-score   support
 
-0       0.89      0.98      0.93        88
-1       0.98      0.89      0.93       102
+0       0.89      0.98          0.93        88
+1       0.98      0.89          0.93       102
 
-accuracy                           0.93       190
+accuracy                        0.93       190
    macro avg       0.93      0.93      0.93       190
 weighted avg       0.94      0.93      0.93       190
     </pre>
